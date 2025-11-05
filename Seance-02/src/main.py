@@ -10,3 +10,5 @@ with open("./data/resultats-elections-presidentielles-2022-1er-tour.csv","r") as
 # Mettre dans un commentaire le numéro de la question
 # Question 1
 # ...
+print ("hello")
+
